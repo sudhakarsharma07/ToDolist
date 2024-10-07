@@ -36,7 +36,7 @@ How to Run the Project ::
 Live Demo  : https://sudhakarsharma07.github.io/ToDolist/
 
 
-Screenshots     ![Uploading image.png…]()
+Screenshots    
 
 
 
