@@ -1,47 +1,37 @@
-Todo-List Application
-This repository contains a simple To-Do List web application built using HTML, CSS, and JavaScript. The application allows users to add, display, and delete tasks, with all data stored in the browser's localStorage to ensure tasks persist even after a page refresh.
-Features  :
-Add tasks: Users can input tasks and add them to their list.
-Display tasks: The application dynamically displays the list of tasks, and the number of pending tasks is updated.
-Delete tasks: Each task has a delete button to remove it from the list.
-Reset list: All tasks can be cleared at once with the "Reset" button.
-Local Storage: Tasks are saved in the browser's local storage so they remain even after a page refresh
+# 📝 Todo-List Application
 
+This repository contains a simple and responsive **To-Do List Web Application** built using **HTML, CSS, and JavaScript**. The app enables users to add, display, and delete tasks, with data stored in the browser's **localStorage**—ensuring your to-dos persist even after a page refresh.
 
+## 🚀 Features
 
+- ✅ **Add Tasks**: Users can input tasks and add them to the list.
+- 📋 **Display Tasks**: Dynamically displays the list of tasks, with a real-time count of pending tasks.
+- ❌ **Delete Tasks**: Each task includes a delete button for easy removal.
+- 🔁 **Reset List**: Clear all tasks at once using the **"Reset"** button.
+- 💾 **Local Storage Support**: Tasks are saved to localStorage for persistence across sessions.
 
-Project Structure
-index.html: The main HTML file that defines the structure of the web application.
-style.css: Contains the styling for the to-do list, including responsiveness and design.
-script.js: Handles the logic for adding, displaying, and removing tasks using localStorage.
+---
 
+## 📁 Project Structure
+ToDolist/ │ ├── index.html # Main HTML file defining the structure 
+            ├── style.css # Stylesheet for layout and responsiveness 
+            └── script.js # JavaScript logic for managing tasks and localStorage
 
+---
 
+## 🛠️ Technologies Used
 
-Technologies Used
-HTML5: Provides the structure of the web page.
-CSS3: Styles the UI and adds responsive design.
-JavaScript (ES6): Manages the functionality, including task management and localStorage interaction.
+- **HTML5** – Provides the page structure.
+- **CSS3** – Handles design and responsive layout.
+- **JavaScript (ES6)** – Powers interactivity and localStorage handling.
 
+---
 
+## ▶️ How to Run the Project
 
-How to Run the Project ::
-1. Clone the repository:  git clone https://github.com/sudhakarsharma07/ToDolist.git
-
-2. Navigate to the project folder:  cd todo-list
-
-3.Open index.html in your web browser:open index.html
-
-
-Live Demo  : https://sudhakarsharma07.github.io/ToDolist/
-
-
-Screenshots    
-
-
-
-
-
-
-
-
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/sudhakarsharma07/ToDolist.git
+   
+#Navigate to the project folder
+cd ToDolist
